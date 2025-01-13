@@ -23,19 +23,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-<!--- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- -*2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-- *1999.09-2006.06*, Bachelor's degree and Combined Master's-Ph.D. program, Sun Yat-sen University
-- *2006.10-2009.12*, Ph.D., University of Bradford, UK
-- *2010.02-2013.01*, Postdoctoral Researcher, University of Lincoln, UK
-- *2011.03-2011.05*, Visiting Scholar, Microsoft Research Cambridge, UK
-- *2013.03-Present*, Associate Professor, South China University of Technology, School of Electronic and Information Engineering
-- *2017.07-2018.07*, Visiting Scholar, University of Strathclyde, UK
-- *2022.12-2023.12*, Visiting Scholar, University of Lincoln, UK
+- *2006.10-2009.12*, Ph.D., University of Bradford, School of Information Sciences, UK
+- *2003.09-2006.09*, Direct Ph.D. Program (Master-Ph.D. Combined Program), Sun Yat-sen University, School of Mathematics and Computational Science
+- *1999.09-2003.06*, Bachelor's Degree, Sun Yat-sen University, School of Mathematics and Computational Science
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 👩‍🏫 Work Experiences
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2013.03-Present*, Associate Professor, South China University of Technology, School of Electronic and Information Engineering
+- *2022.12-2023.12*, Visiting Scholar, University of Lincoln, UK
+- *2017.07-2018.07*, Visiting Scholar, University of Strathclyde, UK
+- *2011.03-2011.05*, Visiting Scholar, Microsoft Research Cambridge, UK
+- *2010.02-2013.01*, Postdoctoral Researcher, University of Lincoln, UK
 
 # 📝 Publications 
 
