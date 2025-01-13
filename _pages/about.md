@@ -71,5 +71,10 @@ My research interest includes affective computing, virtual reality, human-comput
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Projects
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2023-2025*, Research on the Influence of Virtual Reality Technology on the Perception of Environmental Risk, Guangdong Provincial Natural Science Foundation.
+- *2022-2023*, Research on the Multimodal Emotion Recognition Based on Human-Computer Interaction, Guangdong Provincial Natural Science Foundation.
+- *2021-2022*, VR/AR Technology-Driven Research on Disaster Risk Awareness, Guangdong Provincial Natural Science Foundation.
+- *2015-2017*, Research on the Adaptability of Mobile and Immersive Visualization for Environmental Risk Communication, Guangdong Provincial Natural Science Foundation.
+- *2015-2016*, Research on the Capacity of Artificial Intelligence to Support Disaster Risk Reduction Strategies, Guangdong Provincial Science and Technology Project (Major Technology Project).
