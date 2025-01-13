@@ -42,7 +42,7 @@ My research interest includes affective computing, virtual reality, human-comput
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2023</div><img src='images/MASANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2024</div><img src='images/MASANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MASANet: Multi-Aspect Semantic Auxiliary Network for Visual Sentiment Analysis](https://ieeexplore.ieee.org/document/10380727)
