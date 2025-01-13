@@ -6,8 +6,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Work Experiences"
+    url: "/#-work-experiences"
 
   - title: "Publications"
     url: "/#-publications"
