@@ -54,8 +54,15 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- Won the First Prize of Natural Science in Guangdong Province.
+- Gave an oral presentation at the top international AI conference AAAI 2023.
+- Received the Best Demonstration Paper Award at the well-known international conference BICS 2023.
+- Gave an oral presentation at the top international VR conference IEEE VR 2020.
+- Graduate students have won the championship and runner-up in domestic AI competitions multiple times.
+- Received the Best Student Paper Award at ICCSS 2017.
+- Received the Best Paper Nomination Award at the well-known international image processing conference ICIP 2017.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
