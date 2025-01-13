@@ -42,15 +42,15 @@ My research interest includes affective computing, virtual reality, human-comput
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/MASANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MASANet: Multi-Aspect Semantic Auxiliary Network for Visual Sentiment Analysis](https://ieeexplore.ieee.org/document/10380727)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jinglun Cen**, Chunmei Qing*, Haochun Ou, Xiangmin Xu, and Junpeng Tan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=soX8e10AAAAJ&cstart=20&pagesize=80&citation_for_view=soX8e10AAAAJ:zA6iFVUQeVQC) <strong><span class='show_paper_citations' data='soX8e10AAAAJ:zA6iFVUQeVQC'></span></strong>
+- We proposes a Multi-Aspect Semantic Auxiliary Network (MASANet) for visual sentiment analysis. Specifically, MASANet achieves modality expansion through cross-modal generation, making it possible to introduce cross-domain semantic assistance. Then, a cross-modal gating module and an adaptive modal fusion module are proposed for aspect-level and cross-modal interaction, respectively. In addition, a designed semantic polarity constraint loss is presented to improve sentiment multi-classification performance.
 </div>
 </div>
 
