@@ -67,14 +67,14 @@ My research interest includes affective computing, virtual reality, human-comput
 - Received the Best Student Paper Award at ICCSS 2017.
 - Received the Best Paper Nomination Award at the well-known international image processing conference ICIP 2017.
 
-# 💬 Invited Talks
+# 💬 S&A Positions
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-- 1. Member of the Specialized Committee on Affective Computing of the China Graphics and Image Society (CGIS)
-- 2. Director of Transmedia Technology Department, Human Data Sensing Engineering Research Center, Ministry of Education, China
-- 3. Secretary of Guangdong Key Laboratory of Digital Twins
-- 4. Vice Chairman and Secretary General of Guangdong Applied Brain Science Industry Technology Innovation Alliance
-- 5. Secretary of IEEE CASS Guangzhou chapter
+- Member of the Specialized Committee on Affective Computing of the China Graphics and Image Society (CGIS)
+- Director of Transmedia Technology Department, Human Data Sensing Engineering Research Center, Ministry of Education, China
+- Secretary of Guangdong Key Laboratory of Digital Twins
+- Vice Chairman and Secretary General of Guangdong Applied Brain Science Industry Technology Innovation Alliance
+- Secretary of IEEE CASS Guangzhou chapter
 
 # 💻 Research Projects
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
