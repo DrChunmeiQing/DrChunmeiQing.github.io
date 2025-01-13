@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chunmei Qing, Doctor, Associate Professor, Master's Supervisor, and a Young Innovative Talent in Ordinary Colleges and Universities of Guangdong Province. In recent years, I have focused on conducting research in cutting-edge interdisciplinary areas and major regional industrial needs, particularly in virtual reality technology, multimodal affective computing, and natural human-computer interaction. I have undertaken a total of 8 projects, including the National Natural Science Foundation and major scientific and technological projects in Guangdong Province, and have participated in 8 projects under the key research and development plan of the Ministry of Science and Technology, major scientific and technological projects in Guangdong Province, and significant livelihood technology projects in Guangzhou.
+Chunmei Qing, Doctor, Associate Professor, Master's Supervisor, and a Young Innovative Talent in Ordinary Colleges and Universities of Guangdong Province. Since 2013, I have been an associate professor in the School of Electronic and Information Engineering at South China University of Technology (SCUT), Guangzhou, China. In recent years, I have focused on conducting research in cutting-edge interdisciplinary areas and major regional industrial needs, particularly in virtual reality technology, multimodal affective computing, and natural human-computer interaction. I have undertaken a total of 8 projects, including the National Natural Science Foundation and major scientific and technological projects in Guangdong Province, and have participated in 8 projects under the key research and development plan of the Ministry of Science and Technology, major scientific and technological projects in Guangdong Province, and significant livelihood technology projects in Guangzhou.
 
 I have published over 60 papers in related fields, including important international journals and conferences such as IEEE TAF, IEEE TMM, IEEE TCSVT, AAAI, and CVPR, with more than 3,000 citations. I have 1 ESI highly cited hot paper (top 0.1% in SCI) and 2 highly cited papers. I have been granted over ten authorized invention patents and have applied for more than 30 invention patents. I serve as a reviewer for several journals and conferences, including IEEE TMM, TIP, CSVT, and CVPR. I received the Best Poster Presentation Award at BICS 2023, the Best Student Paper Award at ICCSS 2017, and a Best Paper Nomination at ICIP 2017.
 
@@ -68,8 +68,13 @@ My research interest includes affective computing, virtual reality, human-comput
 - Received the Best Paper Nomination Award at the well-known international image processing conference ICIP 2017.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- 1. Member of the Specialized Committee on Affective Computing of the China Graphics and Image Society (CGIS)
+- 2. Director of Transmedia Technology Department, Human Data Sensing Engineering Research Center, Ministry of Education, China
+- 3. Secretary of Guangdong Key Laboratory of Digital Twins
+- 4. Vice Chairman and Secretary General of Guangdong Applied Brain Science Industry Technology Innovation Alliance
+- 5. Secretary of IEEE CASS Guangzhou chapter
 
 # 💻 Research Projects
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
