@@ -67,7 +67,7 @@ My research interest includes affective computing, virtual reality, human-comput
 - Received the Best Student Paper Award at ICCSS 2017.
 - Received the Best Paper Nomination Award at the well-known international image processing conference ICIP 2017.
 
-# 💬 S&A Positions
+# 🧢 S&A Positions 
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 - Member of the Specialized Committee on Affective Computing of the China Graphics and Image Society (CGIS)
