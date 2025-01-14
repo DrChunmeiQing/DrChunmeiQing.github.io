@@ -50,7 +50,19 @@ My research interest includes affective computing, virtual reality, human-comput
 **Jinglun Cen**, Chunmei Qing*, Haochun Ou, Xiangmin Xu, and Junpeng Tan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=soX8e10AAAAJ&cstart=20&pagesize=80&citation_for_view=soX8e10AAAAJ:zA6iFVUQeVQC) <strong><span class='show_paper_citations' data='soX8e10AAAAJ:zA6iFVUQeVQC'></span></strong>
-- We proposes a Multi-Aspect Semantic Auxiliary Network (MASANet) for visual sentiment analysis. Specifically, MASANet achieves modality expansion through cross-modal generation, making it possible to introduce cross-domain semantic assistance. Then, a cross-modal gating module and an adaptive modal fusion module are proposed for aspect-level and cross-modal interaction, respectively. In addition, a designed semantic polarity constraint loss is presented to improve sentiment multi-classification performance.
+- We propose a Multi-Aspect Semantic Auxiliary Network (MASANet) for visual sentiment analysis. Specifically, MASANet achieves modality expansion through cross-modal generation, making it possible to introduce cross-domain semantic assistance. Then, a cross-modal gating module and an adaptive modal fusion module are proposed for aspect-level and cross-modal interaction, respectively. In addition, a designed semantic polarity constraint loss is presented to improve sentiment multi-classification performance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASLP 2023</div><img src='images/CAMFNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Context-Based Adaptive Multimodal Fusion Network for Continuous Frame-Level Sentiment Prediction](https://ieeexplore.ieee.org/document/10271721)
+
+**Maochun Huang**, Chunmei Qing*, Junpeng Tan, Xiangmin Xu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=soX8e10AAAAJ&sortby=pubdate&citation_for_view=soX8e10AAAAJ:2P1L_qKh6hAC) <strong><span class='show_paper_citations' data='soX8e10AAAAJ:2P1L_qKh6hAC'></span></strong>
+- We propose a novel Context-Based Adaptive Multimodal Fusion Network (CAMFNet) for consecutive frame-level sentiment prediction. A Context-based Transformer (CBT) module was specifically designed to embed clip features into continuous frame features, leveraging its capability to enhance the consistency of prediction results. Moreover, to resolve the multi-modal conflict between modalities, this article proposed an Adaptive multimodal fusion (AMF) method based on the selfattention mechanism. It can dynamically determines the degree of shared semantics across modalities, enabling the model to flexibly adapt its fusion strategy. Through adaptive fusion of multimodal features, the AMF method effectively resolves potential conflicts arising from diverse modalities, ultimately enhancing the overall performance of the model. The proposed CAMFNet for consecutive frame-level sentiment prediction can ensure the continuity of long time-series sentiments. 
 </div>
 </div>
 
