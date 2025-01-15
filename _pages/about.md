@@ -74,7 +74,7 @@ My research interest includes affective computing, virtual reality, human-comput
 
 REFN: A Multimodal Database for Emotion Analysis Using Functional Near-infrared Spectroscopy
 
-**Dengjun Sun**, Chunmei Qing*, Zhili Lai1, and Xiangmin Xu
+**Dengjun Sun**, Chunmei Qing*, Zhili Lai, and Xiangmin Xu
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=soX8e10AAAAJ&sortby=pubdate&citation_for_view=soX8e10AAAAJ:2P1L_qKh6hAC) <strong><span class='show_paper_citations' data='soX8e10AAAAJ:2P1L_qKh6hAC'></span></strong> -->
 [**Data**](https://github.com/DrChunmeiQing/REFN)
