@@ -43,7 +43,6 @@ My research interest includes affective computing, virtual reality, human-comput
 # 📝 Publications 
 
 ## 😄 Sentiment Analysis
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2024</div><img src='images/MASANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,6 +77,7 @@ REFN: A Multimodal Database for Emotion Analysis Using Functional Near-infrared 
 **Dengjun Sun**, Chunmei Qing*, Zhili Lai1, and Xiangmin Xu
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=soX8e10AAAAJ&sortby=pubdate&citation_for_view=soX8e10AAAAJ:2P1L_qKh6hAC) <strong><span class='show_paper_citations' data='soX8e10AAAAJ:2P1L_qKh6hAC'></span></strong> -->
+[**Data**](https://github.com/DrChunmeiQing/REFN)
 - We present a multimodal affective dataset based on fNIRS, comprising recordings from 28 participants observing five categories of emotional videos (pride, happy, neutral, fear, sad). The dataset includes fNIRS data, Galvanic Skin Response (GSR) data, Photoplethysmographic (PPG) data, and facial expressions data. 
 </div>
 </div>
