@@ -42,6 +42,8 @@ My research interest includes affective computing, virtual reality, human-comput
 
 # 📝 Publications 
 
+## 😄 Sentiment Analysis
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2024</div><img src='images/MASANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,14 +61,27 @@ My research interest includes affective computing, virtual reality, human-comput
 
 [Context-Based Adaptive Multimodal Fusion Network for Continuous Frame-Level Sentiment Prediction](https://ieeexplore.ieee.org/document/10271721)
 
-**Maochun Huang**, Chunmei Qing*, Junpeng Tan, Xiangmin Xu
+**Maochun Huang**, Chunmei Qing*, Junpeng Tan, and Xiangmin Xu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=soX8e10AAAAJ&sortby=pubdate&citation_for_view=soX8e10AAAAJ:2P1L_qKh6hAC) <strong><span class='show_paper_citations' data='soX8e10AAAAJ:2P1L_qKh6hAC'></span></strong>
 - We propose a novel Context-Based Adaptive Multimodal Fusion Network (CAMFNet) for consecutive frame-level sentiment prediction. A Context-based Transformer (CBT) module was specifically designed to embed clip features into continuous frame features, leveraging its capability to enhance the consistency of prediction results. Moreover, to resolve the multi-modal conflict between modalities, this article proposed an Adaptive multimodal fusion (AMF) method based on the selfattention mechanism. It can dynamically determines the degree of shared semantics across modalities, enabling the model to flexibly adapt its fusion strategy. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 🧠 fNIRS Projects 
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEI 2024</div><img src='images/REFN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+REFN: A Multimodal Database for Emotion Analysis Using Functional Near-infrared Spectroscopy
+
+**Dengjun Sun**, Chunmei Qing*, Zhili Lai1, and Xiangmin Xu
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=soX8e10AAAAJ&sortby=pubdate&citation_for_view=soX8e10AAAAJ:2P1L_qKh6hAC) <strong><span class='show_paper_citations' data='soX8e10AAAAJ:2P1L_qKh6hAC'></span></strong> -->
+- We present a multimodal affective dataset based on fNIRS, comprising recordings from 28 participants observing five categories of emotional videos (pride, happy, neutral, fear, sad). The dataset includes fNIRS data, Galvanic Skin Response (GSR) data, Photoplethysmographic (PPG) data, and facial expressions data. 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
